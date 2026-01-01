@@ -1239,7 +1239,1754 @@ const motors = [
   description:
     "Asya Ultra 150, 150 cc tek silindirli ve 4 zamanlı motor yapısına sahip bir motosiklettir. 5 ileri manuel şanzıman ve zincir tahrik ile şehir içi kullanım için uygundur. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ekonomik kullanım sunar, ABS bulunmamaktadır."
 },
+  {
+  brand: "Arora",
+  model: "Alfa 110",
 
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "110 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
 
+  power: "7–8 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Kampana fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 95 kg",
+  fuelTank: "Yaklaşık 8 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 75 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora Alfa 110, 110 cc tek silindirli ve 4 zamanlı motor yapısına sahip şehir içi kullanım için uygun bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile ekonomik sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "Alfa 50",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "50 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "3–4 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Kampana fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 75 kg",
+  fuelTank: "Yaklaşık 5 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 50–55 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora Alfa 50, 50 cc tek silindirli ve 4 zamanlı motor yapısına sahip, şehir içi kullanım için ideal küçük bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile ekonomik sürüş sunar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 03Z 250",
+
+  engineType: "Tek silindirli, 4 zamanlı, benzinli motor",
+  displacement: "249 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "18–20 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör / Enjeksiyon ilanlara göre değişebilir",
+  ignition: "CDI",
+  starter: "Elektrik + kick starter",
+
+  transmission: "5 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Monoshock arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Disk fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 135 kg",
+  fuelTank: "Yaklaşık 12 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 115–120 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 03Z 250, 250 cc tek silindirli ve 4 zamanlı motor yapısına sahip bir motosiklettir. 5 ileri manuel şanzıman ve zincir tahrik ile şehir içi ve hafif arazi kullanımı için uygundur. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 06",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "49–50 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "3–4 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Kampana fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 72 kg",
+  fuelTank: "Yaklaşık 5 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 50–55 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 06, 50 cc tek silindirli ve 4 zamanlı motor yapısına sahip ekonomik bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile şehir içi kullanım için uygundur. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS bulunmamaktadır."
+},
+  {
+  brand: "Arora",
+  model: "AR 06Z 250",
+
+  engineType: "Tek silindirli, 4 zamanlı, benzinli motor",
+  displacement: "249 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "18–20 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör / Enjeksiyon ilanlara göre değişebilir",
+  ignition: "CDI",
+  starter: "Elektrik + kick starter",
+
+  transmission: "5 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Monoshock arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Disk fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 135 kg",
+  fuelTank: "Yaklaşık 12 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 115–120 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 06Z 250, 250 cc tek silindirli ve 4 zamanlı motor yapısına sahip bir motosiklettir. 5 ileri manuel şanzıman ve zincir tahrik ile şehir içi ve hafif arazi kullanımı için uygundur. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 50-10 Toros",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "49–50 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "3–4 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Kampana fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 72 kg",
+  fuelTank: "Yaklaşık 5 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 50–55 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 50-10 Toros, 50 cc tek silindirli ve 4 zamanlı motor yapısına sahip şehir içi kullanım için ekonomik bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS bulunmamaktadır."
+},
+  {
+  brand: "Arora",
+  model: "AR 50-11 Ares",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "49–50 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "3–4 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Kampana fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 72 kg",
+  fuelTank: "Yaklaşık 5 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 50–55 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 50-11 Ares, 50 cc tek silindirli ve 4 zamanlı motor yapısına sahip ekonomik bir şehir içi motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS bulunmamaktadır."
+},
+  {
+  brand: "Arora",
+  model: "AR 50-20 Today",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "49–50 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "3–4 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Kampana fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 72 kg",
+  fuelTank: "Yaklaşık 5 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 50–55 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 50-20 Today, 50 cc tek silindirli ve 4 zamanlı motor yapısına sahip şehir içi kullanım için ekonomik bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 50-30",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "49–50 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "3–4 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Kampana fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 72 kg",
+  fuelTank: "Yaklaşık 5 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 50–55 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 50-30, 50 cc tek silindirli ve 4 zamanlı motor yapısına sahip şehir içi kullanım için ekonomik bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 50-50 Kasırga",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "49–50 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "3–4 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Kampana fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 72 kg",
+  fuelTank: "Yaklaşık 5 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 50–55 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 50-50 Kasırga, 50 cc tek silindirli ve 4 zamanlı motor yapısına sahip şehir içi kullanım için ekonomik ve dayanıklı bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS bulunmamaktadır."
+},
+  {
+  brand: "Arora",
+  model: "AR 50-6 Capirossi",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "49–50 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "3–4 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Kampana fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 72 kg",
+  fuelTank: "Yaklaşık 5 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 50–55 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 50-6 Capirossi, 50 cc tek silindirli ve 4 zamanlı motor yapısına sahip, şehir içi kullanım için ekonomik bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 50-8 Espresso",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "49–50 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "3–4 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Kampana fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 72 kg",
+  fuelTank: "Yaklaşık 5 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 50–55 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 50-8 Espresso, 50 cc tek silindirli ve 4 zamanlı motor yapısına sahip şehir içi kullanım için ekonomik bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS bulunmamaktadır."
+},
+  {
+  brand: "Arora",
+  model: "AR 50 Special",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "49–50 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "3–4 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Kampana fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 72 kg",
+  fuelTank: "Yaklaşık 5 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 50–55 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 50 Special, 50 cc tek silindirli ve 4 zamanlı motor yapısına sahip şehir içi kullanım için ekonomik bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 100-19 Elegant",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "97–100 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "7–8 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 90–95 kg",
+  fuelTank: "Yaklaşık 8 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 80–85 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 100-19 Elegant, 100 cc tek silindirli ve 4 zamanlı motor yapısına sahip şehir içi kullanım için ekonomik ve şık tasarımlı bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS bulunmamaktadır."
+},
+  {
+  brand: "Arora",
+  model: "AR 100-62 Kartal",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "97–100 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "7–8 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 90–95 kg",
+  fuelTank: "Yaklaşık 8 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 80–85 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 100-62 Kartal, 100 cc tek silindirli ve 4 zamanlı motor yapısına sahip şehir içi kullanım için ekonomik ve dayanıklı bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 100-7",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "97–100 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "7–8 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 90–95 kg",
+  fuelTank: "Yaklaşık 8 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 80–85 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 100-7, 100 cc tek silindirli ve 4 zamanlı motor yapısına sahip şehir içi kullanım için ekonomik ve dayanıklı bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 100-7 Special Alfa",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "97–100 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "7–8 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 90–95 kg",
+  fuelTank: "Yaklaşık 8 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 80–85 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 100-7 Special Alfa, 100 cc tek silindirli ve 4 zamanlı motor yapısına sahip şehir içi kullanım için tasarlanmış özel bir modeldir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 100-8 A Modifiye",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "97–100 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "7–8 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 90–95 kg",
+  fuelTank: "Yaklaşık 8 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 80–85 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 100-8 A Modifiye, 100 cc tek silindirli ve 4 zamanlı motor yapısına sahip şehir içi kullanım için geliştirilmiş modifiye bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 100-8 Klasik Çelik",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "97–100 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "7–8 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 90–95 kg",
+  fuelTank: "Yaklaşık 8 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 80–85 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 100-8 Klasik Çelik, 100 cc tek silindirli ve 4 zamanlı motor yapısına sahip, klasik tasarımlı şehir içi motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 100-8 Klasik Tel",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "97–100 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "7–8 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 90–95 kg",
+  fuelTank: "Yaklaşık 8 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 80–85 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 100-8 Klasik Tel, 100 cc tek silindirli ve 4 zamanlı motor yapısına sahip klasik tasarımlı şehir içi motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS bulunmamaktadır."
+},
+  {
+  brand: "Arora",
+  model: "AR 100-B",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "97–100 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "7–8 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 90–95 kg",
+  fuelTank: "Yaklaşık 8 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 80–85 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 100-B, 100 cc tek silindirli ve 4 zamanlı motor yapısına sahip şehir içi kullanım için klasik ve ekonomik bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS bulunmamaktadır."
+},
+  {
+  brand: "Arora",
+  model: "AR 100T 2A Special",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "97–100 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "7–8 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 90–95 kg",
+  fuelTank: "Yaklaşık 8 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 80–85 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 100T 2A Special, 100 cc tek silindirli ve 4 zamanlı motor yapısına sahip, şehir içi kullanım için tasarlanmış özel bir modeldir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 100T-2B İnci",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "97–100 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "7–8 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 90–95 kg",
+  fuelTank: "Yaklaşık 8 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 80–85 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 100T-2B İnci, 100 cc tek silindirli ve 4 zamanlı motor yapısına sahip, şehir içi kullanım için tasarlanmış özel bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 125",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "124–125 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "9–10 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 95–100 kg",
+  fuelTank: "Yaklaşık 9–10 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 90–100 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 125, 125 cc tek silindirli ve 4 zamanlı motor yapısına sahip şehir içi ve günlük kullanım için tasarlanmış ekonomik bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS bulunmamaktadır."
+},
+  {
+  brand: "Arora",
+  model: "AR 125-43 Yebere",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "124–125 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "9–10 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 95–100 kg",
+  fuelTank: "Yaklaşık 9–10 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 90–100 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 125-43 Yebere, 125 cc tek silindirli ve 4 zamanlı motor yapısına sahip, şehir içi ve günlük kullanım için ekonomik bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 125-48 Yebere",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "124–125 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "9–10 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 95–100 kg",
+  fuelTank: "Yaklaşık 9–10 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 90–100 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 125-48 Yebere, 125 cc tek silindirli ve 4 zamanlı motor yapısına sahip şehir içi kullanım için tasarlanmış ekonomik bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 150-5 Kargo",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "149–150 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "11–12 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 100–110 kg",
+  fuelTank: "Yaklaşık 9–10 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 95–105 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 150-5 Kargo, 150 cc tek silindirli ve 4 zamanlı motor yapısına sahip şehir içi ve hafif yük taşımaya uygun ekonomik bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS bulunmamaktadır."
+},
+  {
+  brand: "Arora",
+  model: "AR 150-A",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "149–150 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "11–12 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 100–110 kg",
+  fuelTank: "Yaklaşık 9–10 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 95–105 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 150-A, 150 cc tek silindirli ve 4 zamanlı motor yapısına sahip şehir içi kullanım için tasarlanmış ekonomik bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS bulunmamaktadır."
+},
+  {
+  brand: "Arora",
+  model: "AR 150-A Jaguar",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "149–150 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "11–12 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 100–110 kg",
+  fuelTank: "Yaklaşık 9–10 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 95–105 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 150-A Jaguar, 150 cc tek silindirli ve 4 zamanlı motor yapısına sahip, şehir içi ve hafif kullanım için tasarlanmış özel bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 150-T",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "149–150 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "11–12 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 100–110 kg",
+  fuelTank: "Yaklaşık 9–10 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 95–105 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 150-T, 150 cc tek silindirli ve 4 zamanlı motor yapısına sahip, şehir içi kullanım için tasarlanmış ekonomik bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 150 T8-H Joker",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "149–150 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "11–12 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 100–110 kg",
+  fuelTank: "Yaklaşık 9–10 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 95–105 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 150 T8-H Joker, 150 cc tek silindirli ve 4 zamanlı motor yapısına sahip, şehir içi kullanım için tasarlanmış özel bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS yoktur."
+},
+  {
+  brand: "Arora",
+  model: "AR 150T-N2 Nostalji",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "149–150 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "11–12 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 100–110 kg",
+  fuelTank: "Yaklaşık 9–10 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 95–105 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 150T-N2 Nostalji, 150 cc tek silindirli ve 4 zamanlı motor yapısına sahip, retro tarzıyla şehir içi kullanım için tasarlanmış özel bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS bulunmamaktadır."
+},
+  {
+  brand: "Arora",
+  model: "AR 170-20 Elegant",
+
+  engineType: "Tek silindirli, 4 zamanlı, hava-soğutmalı motor",
+  displacement: "169–170 cc",
+  boreStroke: "Resmî veri bulunmamaktadır",
+  compressionRatio: "Resmî veri bulunmamaktadır",
+
+  power: "12–13 hp (ilanlara göre)",
+  powerRpm: "Resmî veri bulunmamaktadır",
+  torque: "Resmî veri bulunmamaktadır",
+  torqueRpm: "Resmî veri bulunmamaktadır",
+
+  fuelSystem: "Karbüratör",
+  ignition: "CDI",
+  starter: "Kick starter / Elektrik marş",
+
+  transmission: "4 ileri manuel",
+  driveType: "Zincir",
+
+  cooling: "Hava soğutmalı",
+  lubrication: "Islak karter yağlama",
+
+  frontSuspension: "Teleskopik ön amortisör",
+  rearSuspension: "Çift arka amortisör",
+
+  frontBrake: "Disk fren",
+  rearBrake: "Kampana fren",
+  abs: "ABS yok",
+
+  tireFront: "Resmî veri bulunmamaktadır",
+  tireRear: "Resmî veri bulunmamaktadır",
+
+  length: "Resmî veri bulunmamaktadır",
+  width: "Resmî veri bulunmamaktadır",
+  height: "Resmî veri bulunmamaktadır",
+  wheelbase: "Resmî veri bulunmamaktadır",
+  seatHeight: "Resmî veri bulunmamaktadır",
+  groundClearance: "Resmî veri bulunmamaktadır",
+
+  weight: "Yaklaşık 110–115 kg",
+  fuelTank: "Yaklaşık 11 L",
+  oilCapacity: "Resmî veri bulunmamaktadır",
+
+  maxSpeed: "Yaklaşık 100–110 km/s",
+  zeroToHundred: "Resmî veri bulunmamaktadır",
+
+  productionYear: "Model yılı ilanlara göre değişmektedir",
+
+  description:
+    "Arora AR 170-20 Elegant, 170 cc tek silindirli ve 4 zamanlı motor yapısına sahip, şehir içi ve günlük kullanım için tasarlanmış ekonomik ve şık bir motosiklettir. 4 ileri manuel şanzıman ve zincir tahrik ile sürüş sağlar. Hava soğutmalı motor ve klasik fren/süspansiyon sistemi ile ABS bulunmamaktadır."
+},
 
 ];
