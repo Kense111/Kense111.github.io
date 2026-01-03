@@ -17036,6 +17036,6 @@ const motors = [
     fuelTank: "18.8 Litre",
     weight: "242 kg",
     description: "Standart Africa Twin şasisi üzerinde sunulan DCT şanzıman seçeneği; özellikle trafikten kaçmak isteyen şehirli gezginlerin ve arazi profesyonellerinin tercihi.",
-  }
+  },
   
   ];
