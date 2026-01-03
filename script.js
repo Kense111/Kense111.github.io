@@ -1,8 +1,16 @@
 const searchInput = document.getElementById("searchInput");
 const motorList = document.getElementById("motorList");
 
+/**
+ * Motorları ekrana basan fonksiyon
+ */
 function renderMotors(list) {
   motorList.innerHTML = "";
+
+  if (list.length === 0) {
+    motorList.innerHTML = `<p style="color: white; text-align: center; grid-column: 1/-1;">Aradığınız kriterlere uygun motor bulunamadı.</p>`;
+    return;
+  }
 
   list.forEach(motor => {
     const div = document.createElement("div");
@@ -11,14 +19,15 @@ function renderMotors(list) {
     div.innerHTML = `
       <h2>${motor.brand} ${motor.model}</h2>
       <div class="spec">
-        <b>Motor Tipi:</b> ${motor.engineType}<br>
-        <b>Hacim:</b> ${motor.displacement}<br>
-        <b>Güç:</b> ${motor.power}<br>
-        <b>Tork:</b> ${motor.torque}<br>
-        <b>Soğutma:</b> ${motor.cooling}<br>
-        <b>Şanzıman:</b> ${motor.transmission}<br>
-        <b>Maks. Hız:</b> ${motor.maxSpeed || "Eklenecek"}<br><br>
-        ${motor.description}
+        <b>Motor Tipi:</b> ${motor.engineType || "Belirtilmemiş"}<br>
+        <b>Hacim:</b> ${motor.displacement || "-"}<br>
+        <b>Güç:</b> ${motor.power || "-"}<br>
+        <b>Tork:</b> ${motor.torque || "-"}<br>
+        <b>Şanzıman:</b> ${motor.transmission || "-"}<br>
+        <b>Fren (Ön/Arka):</b> ${motor.frontBrake || "-"} / ${motor.rearBrake || "-"}<br>
+        <b>ABS:</b> ${motor.abs || "Yok"}<br>
+        <b>Yakıt Tankı:</b> ${motor.fuelTank || "-"}<br><br>
+        <i>${motor.description || ""}</i>
       </div>
     `;
 
@@ -26,18 +35,38 @@ function renderMotors(list) {
   });
 }
 
-// ilk yüklemede hepsini göster
+// Sayfa ilk açıldığında tüm motorları getir (data.js'deki 'motors' değişkenini kullanır)
 renderMotors(motors);
 
-// ARAMA ÇALIŞAN KISIM
+/**
+ * Gelişmiş Arama Fonksiyonu
+ * "Aprilia Mana" veya "125 Arora" gibi çoklu kelimeleri destekler.
+ */
 searchInput.addEventListener("keyup", function () {
-  const value = searchInput.value.toLowerCase();
+  // Aranan metni temizle ve Türkçe küçük harfe çevir
+  const value = searchInput.value.toLocaleLowerCase('tr-TR').trim();
+  
+  if (!value) {
+    renderMotors(motors);
+    return;
+  }
 
-  const filtered = motors.filter(motor =>
-    motor.brand.toLowerCase().includes(value) ||
-    motor.model.toLowerCase().includes(value) ||
-    (motor.displacement && motor.displacement.toLowerCase().includes(value))
-  );
+  // Aramayı boşluklardan bölerek kelime dizisi yapıyoruz (Örn: ["aprilia", "mana"])
+  const searchTerms = value.split(/\s+/);
+
+  const filtered = motors.filter(motor => {
+    // Motorun tüm bilgilerini tek bir metin kutusuna topluyoruz
+    const motorData = `
+      ${motor.brand} 
+      ${motor.model} 
+      ${motor.displacement} 
+      ${motor.engineType} 
+      ${motor.description}
+    `.toLocaleLowerCase('tr-TR');
+
+    // Yazılan HER kelimenin motor bilgilerinde geçip geçmediğini kontrol ediyoruz
+    return searchTerms.every(term => motorData.includes(term));
+  });
 
   renderMotors(filtered);
 });
