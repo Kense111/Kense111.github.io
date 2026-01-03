@@ -5046,8 +5046,7 @@ const motors = [
     weight: "95 kg",
     description: "Geniş lastikleri ve yüksek yapısıyla bozuk yollarda bile güven veren, 50cc sınıfının en heybetli görünen modellerinden biridir."
   },
-  
-  {
+   {
     brand: "Arora",
     model: "Safari 125",
     engineType: "Tek Silindir, 4 Zamanlı, Hava Soğutmalı",
@@ -5857,11 +5856,5 @@ const motors = [
     fuelTank: "18.5 Litre",
     weight: "209 kg",
     description: "Sokakların en hırçın naked motoru; RSV4 genlerini dik oturuş pozisyonuyla birleştirerek adrenalin dolu bir sürüş sunar."
-  },
-
-
-
- 
-
-
+  }
 ];
